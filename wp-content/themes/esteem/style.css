@@ -1571,3 +1571,9 @@ a#scroll-up:hover {
 .nav-menu {
     margin-top: 25px;
 }
+
+.disclamer, 
+.copyright {
+    font-size: 9px;
+    text-align: center;
+}
